@@ -1,4 +1,4 @@
-# Hi there! I'm a Student at 42 Tokyo 🇯🇵
+# Hello! I'm a Student at 42 Tokyo 🇯🇵
 
 C言語での低レイヤー開発（シェル再実装など）を中心に学習中です。
 卒業後の起業を見据えて、Web開発のインターン（週3~4日・有償）を探しています。
